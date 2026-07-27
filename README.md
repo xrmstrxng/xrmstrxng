@@ -66,14 +66,27 @@ Continuo expandindo minha prática em **arquitetura de software, DDD, mensageria
 ❓Minha tatuagem preferida é simples mas diz muito sobre mim: um lembrete da minha curiosidade, da criatividade e da vontade de continuar fazendo perguntas, pois para mim são elas que me tiram da zona de conforto e me fazem crescer e explorar a vida. Boas perguntas, histórias e diferentes formas de enxergar a vida são sempre bem-vindas.
 
 <p align="center">
-  <img src="./assets/tatuagem-curiosidade.jpeg" alt="Minha tatuagem de ponto de interrogação, símbolo da minha curiosidade" width="260">
+  <img src="./assets/tatuagem-curiosidade-5x3.jpeg" alt="Minha tatuagem de ponto de interrogação, símbolo da minha curiosidade" width="260">
 </p>
 
 📷 Amo fotografar o cotidiano e registrar o meu olhar sobre o que encontro. Das cenas mais banais e rotineiras às mais extraordinárias e impressionantes. Para mim, a beleza depende menos do objeto e mais de quem se permite observá-lo com atenção.
 
+<p align="center">
+  <img src="./assets/fotografia/litoral-ao-entardecer.jpeg" alt="Litoral ao entardecer" width="210">
+  <img src="./assets/fotografia/portao-iluminado.jpeg" alt="Portão iluminado durante a noite" width="210">
+  <br>
+  <img src="./assets/fotografia/jukebox.jpeg" alt="Detalhes de uma jukebox" width="210">
+  <img src="./assets/fotografia/cidade-a-noite.jpeg" alt="Cidade à noite sob a Lua" width="210">
+</p>
+
 🗺️ Tenho um hobby um tanto específico: amo estudar bandeiras e reconheço as de todos os países do mundo. Fique a vontade para me desafiar em um x1 de mapas também C:
 
 🎸 Música é parte de quem eu sou e do meu dia a dia, se me der bom dia na rua e eu não responder, provavelmente meus ouvidos estão censurados pelo volume máximo do meu fone. Também faço um som uma vez ou outra na minha guitarra e gosto de aproveitar a acústica do meu estudio (banheiro) pra cantar (arranhar a garganta).
+
+<p align="center">
+  <img src="./assets/musica/tocando-guitarra.jpeg" alt="Tocando guitarra" width="210">
+  <img src="./assets/musica/guitarra-com-gatinha.jpeg" alt="Tocando guitarra com minha gatinha" width="210">
+</p>
 
 🔎 Gosto de explorar a cidade sem destino definido, e se a vida fosse um RPG com certeza aos finais de semana eu estaria fazendo todas as side quests que aparecem no caminho.
 

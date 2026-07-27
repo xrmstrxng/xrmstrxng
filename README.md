@@ -1,0 +1,93 @@
+<div align="center">
+
+# Olá, eu sou a Natalia Armstrong 👋
+
+### Desenvolvedora Backend · Node.js · TypeScript · NestJS
+
+Movida pela curiosidade de entender como tudo funciona.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliaarmstrong23)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:natalia.armstronggg@gmail.com)
+
+</div>
+
+---
+
+## Sobre mim
+
+Sou desenvolvedora backend e trabalho principalmente com **Node.js, TypeScript e NestJS**, criando e evoluindo APIs REST que vivem em produção. Gosto de sistemas organizados, confiáveis e fáceis de compreender — especialmente quando envolvem arquitetura, segurança, integrações, mensageria e regras de negócio que não cabem em um tutorial.
+
+No dia a dia, transito entre modelagem de dados, autenticação, filas, webhooks, serviços externos, testes e deploy.
+
+Sou muito comunicativa, curiosa e bem-humorada. Adoro trocar ideias sobre tecnologia, sobre a vida e sobre tudo o que existe no meio do caminho. Valorizo documentação que realmente ajuda, colaboração sem complicação e a liberdade de perguntar “como isso funciona por dentro?” até a resposta fazer sentido.
+
+## O que faço no backend
+
+Minha stack principal está no ecossistema Node.js, com TypeScript e NestJS. Ao redor dela, uso ferramentas que ajudam a cuidar de todo o ciclo de uma aplicação: dos dados e contratos à segurança, observabilidade e entrega.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+| Área | Ferramentas e tecnologias |
+| --- | --- |
+| **APIs e contratos** | NestJS, APIs REST, Swagger/OpenAPI, class-validator e Zod |
+| **Dados e persistência** | PostgreSQL, Prisma ORM, migrations e transações |
+| **Cache e assíncrono** | Redis, BullMQ, workers, retries e tarefas agendadas |
+| **Segurança** | Passport, JWT, bcrypt, MFA, RBAC, rate limiting e cookies HTTP-only |
+| **Integrações** | Webhooks, gateways de pagamento, PIX, APIs externas e storage compatível com S3 |
+| **Qualidade** | Jest, Supertest, ESLint, Prettier e testes unitários, arquiteturais e E2E |
+| **Infraestrutura** | Docker, Docker Compose, Linux, Git e pipelines de CI/CD |
+| **Observabilidade** | Pino, logs estruturados, métricas, Prometheus, Grafana e Loki |
+
+Mais do que acumular ferramentas, procuro entender onde cada uma faz sentido e como combiná-las sem tornar o sistema desnecessariamente complexo.
+
+## Experiência na prática
+
+Minha experiência vem de construir e manter backends para produtos reais, transformando regras de negócio complexas em fluxos claros e sustentáveis.
+
+- Desenvolvimento e evolução de **APIs REST em produção**, com modelagem de dados, documentação, testes e tratamento consistente de erros.
+- Implementação de **autenticação e autorização**, incluindo JWT, MFA, controle de acesso, multi-tenancy e mecanismos de proteção contra abuso.
+- Criação de **integrações com serviços externos**, gateways de pagamento, webhooks e armazenamento de arquivos.
+- Uso de **filas, workers e tarefas agendadas** para processar operações em segundo plano com retries e maior resiliência.
+- Organização de aplicações com **arquitetura modular, Clean Architecture e arquitetura hexagonal**, mantendo regras de negócio separadas de detalhes de infraestrutura.
+- Deploy e manutenção com **Docker e Linux**, além de trabalho com logs, métricas e investigação de problemas em produção.
+
+
+## O que tenho aprofundado
+
+Continuo expandindo minha prática em **arquitetura de software, DDD, mensageria e sistemas distribuídos**, com atenção especial a resiliência, segurança, observabilidade, garantias operacionais e estratégias de testes automatizados. Meu interesse está em compreender não apenas como construir uma funcionalidade, mas como fazê-la se comportar bem diante de falhas, escala e mudança.
+
+## Por trás da tela
+
+❓Minha tatuagem preferida é simples mas diz muito sobre mim: um lembrete da minha curiosidade, da criatividade e da vontade de continuar fazendo perguntas, pois para mim são elas que me tiram da zona de conforto e me fazem crescer e explorar a vida. Boas perguntas, histórias e diferentes formas de enxergar a vida são sempre bem-vindas.
+
+<p align="center">
+  <img src="./assets/tatuagem-curiosidade.jpeg" alt="Minha tatuagem de ponto de interrogação, símbolo da minha curiosidade" width="260">
+</p>
+
+📷 Amo fotografar o cotidiano e registrar o meu olhar sobre o que encontro. Das cenas mais banais e rotineiras às mais extraordinárias e impressionantes. Para mim, a beleza depende menos do objeto e mais de quem se permite observá-lo com atenção.
+
+🗺️ Tenho um hobby um tanto específico: amo estudar bandeiras e reconheço as de todos os países do mundo. Fique a vontade para me desafiar em um x1 de mapas também C:
+
+🎸 Música é parte de quem eu sou e do meu dia a dia, se me der bom dia na rua e eu não responder, provavelmente meus ouvidos estão censurados pelo volume máximo do meu fone. Também faço um som uma vez ou outra na minha guitarra e gosto de aproveitar a acústica do meu estudio (banheiro) pra cantar (arranhar a garganta).
+
+🔎 Gosto de explorar a cidade sem destino definido, e se a vida fosse um RPG com certeza aos finais de semana eu estaria fazendo todas as side quests que aparecem no caminho.
+
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/nataliaarmstrong23)
+- [GitHub](https://github.com/xrmstrxng)
+- [E-mail](mailto:natalia.armstronggg@gmail.com)
+
+---
+
+<div align="center">
+
+**“Life always finds a way.”**
+
+</div>

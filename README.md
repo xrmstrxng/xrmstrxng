@@ -15,7 +15,7 @@ Movida pela curiosidade de entender como tudo funciona.
 
 ## Sobre mim
 
-Sou desenvolvedora backend e trabalho principalmente com **Node.js, TypeScript e NestJS**, criando e evoluindo APIs REST que vivem em produção. Gosto de sistemas organizados, confiáveis e fáceis de compreender — especialmente quando envolvem arquitetura, segurança, integrações, mensageria e regras de negócio que não cabem em um tutorial.
+Sou desenvolvedora backend e trabalho principalmente com **Node.js, TypeScript e NestJS**, criando e evoluindo APIs REST que vivem em produção. Gosto de sistemas organizados, confiáveis e fáceis de compreender, especialmente quando envolvem arquitetura, segurança, integrações, mensageria e regras de negócio que não cabem em um tutorial.
 
 No dia a dia, transito entre modelagem de dados, autenticação, filas, webhooks, serviços externos, testes e deploy.
 

@@ -35,11 +35,13 @@ Minha stack principal está no ecossistema Node.js, com TypeScript e NestJS. Ao 
 | Área | Ferramentas e tecnologias |
 | --- | --- |
 | **APIs e contratos** | NestJS, Express, Fastify, APIs REST, Swagger/OpenAPI, class-validator e Zod |
+| **Arquitetura e modelagem** | Clean Architecture, arquitetura hexagonal, DDD, SOLID e KISS |
 | **Frontend e mobile** | React, Next.js, React Native e Expo |
 | **Dados e persistência** | PostgreSQL, MongoDB, Prisma ORM, migrations e transações |
 | **Cache e assíncrono** | Redis, BullMQ, workers, retries e tarefas agendadas |
 | **Segurança** | Passport, JWT, OAuth 2.0, OpenID Connect, login com Google e Microsoft, bcrypt, MFA, RBAC, rate limiting e cookies HTTP-only |
 | **Integrações** | Webhooks, gateways de pagamento, PIX, APIs externas e storage compatível com S3 |
+| **IA e automações** | RAG, bots e integrações multicanal com WhatsApp, Telegram e e-mail |
 | **Qualidade** | Jest, Supertest, ESLint, Prettier e testes unitários, arquiteturais e E2E |
 | **Infraestrutura** | Docker, Docker Compose, Linux, Nginx, reverse proxy, VPS, Git e pipelines de CI/CD |
 | **Observabilidade** | Pino, logs estruturados, métricas, Prometheus, Grafana e Loki |
@@ -50,10 +52,13 @@ Mais do que acumular ferramentas, procuro entender onde cada uma faz sentido e c
 
 Minha experiência vem de construir e manter backends para produtos reais, transformando regras de negócio complexas em fluxos claros e sustentáveis.
 
+Atuo em uma **software house**, o que me permite trabalhar com projetos de diferentes segmentos, contextos e níveis de complexidade. Tenho participado de todo o ciclo de desenvolvimento dos projetos, desde o planejamento inicial até a entrega e evolução em produção, como **principal responsável pelo desenvolvimento do backend em todos os projetos**. Atualmente, atuo em **ERPs, CRMs, sistemas de controle logístico e de tráfego e plataformas de e-commerce**, adaptando soluções técnicas às necessidades de cada negócio.
+
 - Desenvolvimento e evolução de **APIs REST em produção**, com modelagem de dados, documentação, testes e tratamento consistente de erros.
 - Experiência complementar no desenvolvimento **frontend web com React e Next.js** e **mobile com React Native e Expo**, colaborando na construção de interfaces e na integração com APIs.
 - Implementação de **autenticação e autorização**, incluindo JWT, MFA, login com Google e Microsoft via OAuth 2.0/OpenID Connect, controle de acesso, multi-tenancy e mecanismos de proteção contra ataques e acessos indevidos.
 - Criação de **integrações com serviços externos**, gateways de pagamento, webhooks e armazenamento de arquivos.
+- Desenvolvimento de **soluções com RAG, bots e automações multicanal**, integrando fluxos via WhatsApp, Telegram e e-mail.
 - Uso de **filas, workers e tarefas agendadas** para processar operações em segundo plano com retries e maior resiliência.
 - Organização de aplicações com **arquitetura modular, Clean Architecture e arquitetura hexagonal**, mantendo regras de negócio separadas de detalhes de infraestrutura.
 - Atuação com **DevOps e CI/CD**, incluindo automação de testes e verificações de qualidade, construção de pipelines e entrega contínua de aplicações.

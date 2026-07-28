@@ -15,9 +15,9 @@ Movida pela curiosidade de entender como tudo funciona.
 
 ## Sobre mim
 
-Sou desenvolvedora backend e trabalho principalmente com **Node.js, TypeScript e NestJS**, criando e evoluindo APIs REST que vivem em produção. Gosto de sistemas organizados, confiáveis e escaláveis, especialmente quando envolvem arquitetura, segurança, integrações, mensageria e regras de negócio que não cabem em um tutorial. Também gosto de me aventurar em projetos pessoais fullstack, especialmente porque é quando posso inventar moda e deixar minha criatividade e imaginação fluirem.
+Sou desenvolvedora backend e trabalho principalmente com **Node.js, TypeScript e NestJS**, criando e evoluindo APIs REST que vivem em produção. Gosto de sistemas organizados, confiáveis e escaláveis, especialmente quando envolvem arquitetura, segurança, integrações, mensageria e regras de negócio que não cabem em um tutorial. Embora não seja minha stack principal, também já atuei no desenvolvimento frontend web com **React e Next.js** e mobile com **React Native e Expo**. Gosto de me aventurar em projetos pessoais fullstack, especialmente porque é quando posso inventar moda e deixar minha criatividade e imaginação fluirem.
 
-No dia a dia, transito entre modelagem de dados, autenticação, filas, webhooks, serviços externos, testes e deploy.
+No dia a dia, transito entre modelagem de dados, autenticação, filas, webhooks, serviços externos e testes. Também atuo com práticas de **DevOps**, criando e mantendo pipelines de **CI/CD**, automatizando processos de qualidade e deploy e acompanhando aplicações em produção. Além do desenvolvimento, participo de **reuniões técnicas com clientes** para entender necessidades, alinhar soluções, esclarecer requisitos e transformar desafios de negócio em decisões técnicas viáveis. Também conduzo **treinamentos técnicos para colaboradores**, compartilhando conhecimentos, boas práticas e orientações sobre ferramentas e processos.
 
 Sou muito comunicativa, curiosa e bem-humorada. Adoro trocar ideias sobre tecnologia, sobre a vida e sobre tudo o que existe no meio do caminho. Valorizo documentação que realmente ajuda, colaboração sem complicação e a liberdade de perguntar “como isso funciona por dentro?” até a resposta fazer sentido.
 
@@ -34,13 +34,14 @@ Minha stack principal está no ecossistema Node.js, com TypeScript e NestJS. Ao 
 
 | Área | Ferramentas e tecnologias |
 | --- | --- |
-| **APIs e contratos** | NestJS, APIs REST, Swagger/OpenAPI, class-validator e Zod |
-| **Dados e persistência** | PostgreSQL, Prisma ORM, migrations e transações |
+| **APIs e contratos** | NestJS, Express, Fastify, APIs REST, Swagger/OpenAPI, class-validator e Zod |
+| **Frontend e mobile** | React, Next.js, React Native e Expo |
+| **Dados e persistência** | PostgreSQL, MongoDB, Prisma ORM, migrations e transações |
 | **Cache e assíncrono** | Redis, BullMQ, workers, retries e tarefas agendadas |
-| **Segurança** | Passport, JWT, bcrypt, MFA, RBAC, rate limiting e cookies HTTP-only |
+| **Segurança** | Passport, JWT, OAuth 2.0, OpenID Connect, login com Google e Microsoft, bcrypt, MFA, RBAC, rate limiting e cookies HTTP-only |
 | **Integrações** | Webhooks, gateways de pagamento, PIX, APIs externas e storage compatível com S3 |
 | **Qualidade** | Jest, Supertest, ESLint, Prettier e testes unitários, arquiteturais e E2E |
-| **Infraestrutura** | Docker, Docker Compose, Linux, Git e pipelines de CI/CD |
+| **Infraestrutura** | Docker, Docker Compose, Linux, Nginx, reverse proxy, VPS, Git e pipelines de CI/CD |
 | **Observabilidade** | Pino, logs estruturados, métricas, Prometheus, Grafana e Loki |
 
 Mais do que acumular ferramentas, procuro entender onde cada uma faz sentido e como combiná-las sem tornar o sistema desnecessariamente complexo.
@@ -50,16 +51,20 @@ Mais do que acumular ferramentas, procuro entender onde cada uma faz sentido e c
 Minha experiência vem de construir e manter backends para produtos reais, transformando regras de negócio complexas em fluxos claros e sustentáveis.
 
 - Desenvolvimento e evolução de **APIs REST em produção**, com modelagem de dados, documentação, testes e tratamento consistente de erros.
-- Implementação de **autenticação e autorização**, incluindo JWT, MFA, controle de acesso, multi-tenancy e mecanismos de proteção contra abuso.
+- Experiência complementar no desenvolvimento **frontend web com React e Next.js** e **mobile com React Native e Expo**, colaborando na construção de interfaces e na integração com APIs.
+- Implementação de **autenticação e autorização**, incluindo JWT, MFA, login com Google e Microsoft via OAuth 2.0/OpenID Connect, controle de acesso, multi-tenancy e mecanismos de proteção contra ataques e acessos indevidos.
 - Criação de **integrações com serviços externos**, gateways de pagamento, webhooks e armazenamento de arquivos.
 - Uso de **filas, workers e tarefas agendadas** para processar operações em segundo plano com retries e maior resiliência.
 - Organização de aplicações com **arquitetura modular, Clean Architecture e arquitetura hexagonal**, mantendo regras de negócio separadas de detalhes de infraestrutura.
+- Atuação com **DevOps e CI/CD**, incluindo automação de testes e verificações de qualidade, construção de pipelines e entrega contínua de aplicações.
 - Deploy e manutenção com **Docker e Linux**, além de trabalho com logs, métricas e investigação de problemas em produção.
+- Participação em **reuniões técnicas com clientes**, contribuindo no levantamento e refinamento de requisitos, na definição de soluções e no alinhamento entre necessidades de negócio e implementação.
+- Condução de **treinamentos técnicos para colaboradores**, apoiando o desenvolvimento da equipe e a adoção de ferramentas, processos e boas práticas.
 
 
 ## O que tenho aprofundado
 
-Continuo expandindo minha prática em **arquitetura de software, DDD, mensageria e sistemas distribuídos**, com atenção especial a resiliência, segurança, observabilidade, garantias operacionais e estratégias de testes automatizados. Meu interesse está em compreender não apenas como construir uma funcionalidade, mas como fazê-la se comportar bem diante de falhas, escala e mudança.
+Continuo expandindo minha prática em **arquitetura de software, microsserviços, DDD, mensageria e sistemas distribuídos**, com atenção especial a resiliência, segurança, observabilidade, garantias operacionais e estratégias de testes automatizados. Meu interesse está em compreender não apenas como construir uma funcionalidade, mas como fazê-la se comportar bem diante de falhas, escala e mudança.
 
 ## Por trás da tela
 
@@ -101,6 +106,6 @@ Continuo expandindo minha prática em **arquitetura de software, DDD, mensageria
 
 <div align="center">
 
-**“Life always finds a way.”**
+🌎 **“Life always finds a way.”** 🌎
 
 </div>

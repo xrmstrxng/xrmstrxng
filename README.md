@@ -92,7 +92,7 @@ Continuo expandindo minha prática em **arquitetura de software, microsserviços
 
 🗺️ Tenho um hobby um tanto específico: amo estudar bandeiras e reconheço as de todos os países do mundo. Fique a vontade para me desafiar em um x1 de mapas também C:
 
-🎸 Música é parte de quem eu sou e do meu dia a dia, se me der bom dia na rua e eu não responder, provavelmente meus ouvidos estão censurados pelo volume máximo do meu fone. Também faço um som uma vez ou outra na minha guitarra e gosto de aproveitar a acústica do meu estudio (banheiro) pra cantar (arranhar a garganta).
+🎸 Música é parte de quem eu sou e do meu dia a dia, se me der bom dia na rua e eu não responder, provavelmente meus ouvidos estão censurados pelo volume máximo do meu fone (geralmente da pra saber pois sempre estou tocando algum instrumento imaginário). Também faço um som uma vez ou outra na minha guitarra e gosto de aproveitar a acústica do meu estudio (banheiro) pra cantar (arranhar a garganta).
 
 <p align="center">
   <img src="./assets/musica/tocando-guitarra.jpeg" alt="Tocando guitarra" width="210">

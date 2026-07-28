@@ -36,6 +36,7 @@ Minha stack principal está no ecossistema Node.js, com TypeScript e NestJS. Ao 
 | --- | --- |
 | **APIs e contratos** | NestJS, Express, Fastify, APIs REST, Swagger/OpenAPI, class-validator e Zod |
 | **Arquitetura e modelagem** | Clean Architecture, arquitetura hexagonal, DDD, SOLID e KISS |
+| **Experiência complementar** | Python e Flask |
 | **Frontend e mobile** | React, Next.js, React Native e Expo |
 | **Dados e persistência** | PostgreSQL, MongoDB, Prisma ORM, migrations e transações |
 | **Cache e assíncrono** | Redis, BullMQ, workers, retries e tarefas agendadas |

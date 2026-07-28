@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou a Natalia Armstrong 👋
+# Olá, eu sou a Natalia Armstrong 🦖
 
 ### Desenvolvedora Backend · Node.js · TypeScript · NestJS
 
